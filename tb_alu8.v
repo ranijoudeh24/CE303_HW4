@@ -1,4 +1,3 @@
-// tb_alu8.v -- Testbench for 8-bit ALU
 `timescale 1ns/1ps
 
 module tb_alu8;
